@@ -46,7 +46,7 @@ This Tableau dashboard analyzes industrial equipment performance, device health,
 ### 4. Downtime Per Device Type
 ![Downtime Device Type](SAVE_20260613_173847.jpg)
 
-### 5. Temperature By Device Type
+### 5. Device Status Distribution
 ![Temperature](SAVE_20260613_173855.jpg)
 
 ### 6. Average Temperature By Device Type
