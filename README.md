@@ -34,7 +34,7 @@ This Tableau dashboard analyzes industrial equipment performance, device health,
 
 ## Dashboard Preview
 
-### 1. 
+### 1. Temperature by Device Type
 ![Dashboard](SAVE_20260613_173743.jpg)
 
 ### 2. Average Temperature by Device Type
