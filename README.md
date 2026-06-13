@@ -50,4 +50,4 @@ This Tableau dashboard analyzes industrial equipment performance, device health,
 ![Temperature](SAVE_20260613_173855.jpg)
 
 ### 6. Down time per factory
-![Average Temperature](SAVE_20260613_173838.jpg)
+![Average Temperature](SAVE_20260613_1738factor) 
