@@ -34,13 +34,13 @@ This Tableau dashboard analyzes industrial equipment performance, device health,
 
 ## Dashboard Preview
 
-### 1. Industrial Equipment Monitoring Dashboard
+### 1. 
 ![Dashboard](SAVE_20260613_173743.jpg)
 
 ### 2. Average Temperature by Device Type
 ![Device Status](SAVE_20260613_173901.jpg)
 
-### 3. Downtime Per Factory
+### 3. Industrial Equipment Monitoring Dashboard
 ![Downtime Factory](SAVE_20260613_173818.jpg)
 
 ### 4. Downtime Per Device Type
@@ -49,5 +49,5 @@ This Tableau dashboard analyzes industrial equipment performance, device health,
 ### 5. Device Status Distribution
 ![Temperature](SAVE_20260613_173855.jpg)
 
-### 6. Average Temperature By Device Type
+### 6. Down time per factory
 ![Average Temperature](SAVE_20260613_173838.jpg)
